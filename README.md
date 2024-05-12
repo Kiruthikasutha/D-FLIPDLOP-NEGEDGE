@@ -58,19 +58,16 @@ Q <= 0;
 else
 Q <= D;
 endmodule
+ ~~~
 
 
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![Screenshot 2024-05-12 134642](https://github.com/Kiruthikasutha/D-FLIPDLOP-NEGEDGE/assets/144979570/42010ca2-c0cb-4474-b7b6-9b44dded7e43)
 
-
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 ![Screenshot 2024-05-12 134651](https://github.com/Kiruthikasutha/D-FLIPDLOP-NEGEDGE/assets/144979570/193ebf0f-1ef0-4f6e-8dd0-eb0bcedcd818)
-
-
 
 **RESULTS**
 
